@@ -2,6 +2,10 @@
 
 Este proyecto proporciona una configuración mínima para iniciar con React en Vite, con Hot Module Replacement (HMR) y algunas reglas básicas de ESLint.
 
+## Presentacion
+![List properties](images/list_properties.png)
+
+
 ## Contenido del Proyecto
 
 - **React**: Biblioteca para construir interfaces de usuario.
