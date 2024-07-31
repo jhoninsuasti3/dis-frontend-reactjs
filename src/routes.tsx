@@ -1,7 +1,7 @@
 // src/routes.tsx
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomePage from './pages/HomePage';
-import RegisterPage from './pages/RegisterPage';
+import RegisterPage from './components/RegisterProperty';
 //import PropertyListPage from './pages/PropertyListPage';
 
 const App: React.FC = () => (
